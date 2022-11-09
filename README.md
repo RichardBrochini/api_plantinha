@@ -19,7 +19,7 @@ GET /diario.{$tipo_acao}.{$periodo}/{$idpainel}/
 
 ## Inserindo dados:
 ```bash
-GET ?t=$t&u=$u&s=$s&v=$v&l=$l&acao=$a&p=$idpainel
+PUT ?t=$t&u=$u&s=$s&v=$v&l=$l&acao=$a&p=$idpainel
 ```
 ## Projetos de integração com a API
 [Codigo Arduino para automação](https://github.com/RichardBrochini/plantinha_ino)
