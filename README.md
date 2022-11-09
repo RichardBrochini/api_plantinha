@@ -27,3 +27,5 @@ GET ?t=$t&u=$u&s=$s&v=$v&l=$l&acao=$a&p=$idpainel
 [Integração com ALEXA](https://github.com/RichardBrochini/alexa_plantinha)
 #
 [Painel de Dados e Interação](https://github.com/RichardBrochini/painel_plantinha)
+#
+[Bash script](https://github.com/RichardBrochini/bash_plantinha)
